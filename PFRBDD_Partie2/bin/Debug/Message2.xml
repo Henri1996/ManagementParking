@@ -1,0 +1,49 @@
+<Message_M2>
+  <Details_Reservation>
+    <Numero_reservation>050</Numero_reservation>
+    <Adherent>
+      <Nom>Monta</Nom>
+      <Numero_adherent>C669</Numero_adherent>
+    </Adherent>
+    <Detail_sejour>
+      <Nom_theme>16_ieme_arrondissement</Nom_theme>
+      <Date>Semaine 14</Date>
+      <Etat>Reserve</Etat>
+    </Detail_sejour>
+    <Detail_Voiture>
+      <Nom_parking>VICTOR HUGO</Nom_parking>
+      <Numero_place>A1</Numero_place>
+      <Immatriculation>18NVA00</Immatriculation>
+    </Detail_Voiture>
+  </Details_Reservation>
+  <Appartement_Selectionne>
+    <Numero_de_chambre>2893116</Numero_de_chambre>
+    <Type_de_chambre>Entire home/apt</Type_de_chambre>
+    <Arrondissement>16</Arrondissement>
+    <Station_proche>Porte-Dauphine</Station_proche>
+    <Note_satisfaction>4,5</Note_satisfaction>
+    <Nombre_chambre>1</Nombre_chambre>
+    <Prix>114</Prix>
+    <Disponible>no</Disponible>
+  </Appartement_Selectionne>
+  <Appartement_Selectionne>
+    <Numero_de_chambre>330030</Numero_de_chambre>
+    <Type_de_chambre>Private room</Type_de_chambre>
+    <Arrondissement>16</Arrondissement>
+    <Station_proche>Auteuil</Station_proche>
+    <Note_satisfaction>4,5</Note_satisfaction>
+    <Nombre_chambre>1</Nombre_chambre>
+    <Prix>123</Prix>
+    <Disponible>no</Disponible>
+  </Appartement_Selectionne>
+  <Appartement_Selectionne>
+    <Numero_de_chambre>645572</Numero_de_chambre>
+    <Type_de_chambre>Entire home/apt</Type_de_chambre>
+    <Arrondissement>16</Arrondissement>
+    <Station_proche>Chaillot</Station_proche>
+    <Note_satisfaction>4,5</Note_satisfaction>
+    <Nombre_chambre>1</Nombre_chambre>
+    <Prix>145</Prix>
+    <Disponible>no</Disponible>
+  </Appartement_Selectionne>
+</Message_M2>
